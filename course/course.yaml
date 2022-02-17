@@ -1,16 +1,16 @@
 Course:
   Language:
-    Name: _
-    IETF BCP 47: _
+    Name: #target langauge name
+    IETF BCP 47: #IETF BCP 47 of target langauge
   For speakers of:
-    Name: _
-    IETF BCP 47: _
-  License:
-    Name: Attribution-ShareAlike 4.0 International
-    Short name: CC BY-SA 4.0
-    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+    Name: #source langauge name
+    IETF BCP 47: #IETF BCP 47 of source langauge
+  License: # Attribution-ShareAlike 4.0 International is put in below as it is the recommended to use for your course
+    Name: Attribution-ShareAlike 4.0 International # License full name
+    Short name: CC BY-SA 4.0 # License short name
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode # Link to info of license
   Special characters:
-    - "_"
+    - " " # list special characters used in target language that wouldn't be on the standard keyboard of the source langauge
     
 Modules:
-  - example/
+  - (module name)/ # names of the folders for the modules
