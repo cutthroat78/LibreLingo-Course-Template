@@ -1,5 +1,5 @@
 Module:
-  Name: "(module name)" # Name of module
+  Name: # Name of module
   
 Skills:
-  - (skill name).yaml # list of skill files in this module
+  - (skill name).yaml # list of skill files in this module in the skills folder
