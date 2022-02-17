@@ -1,5 +1,5 @@
 Module:
-  Name: "example"
+  Name: "(module name)"
 
 Skills:
-  - example.yaml
+  - (skill name).yaml
