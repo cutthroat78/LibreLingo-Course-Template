@@ -1,34 +1,34 @@
 Skill:
-  Id: (unique ID)
-  Name: (skill name)
+  Id: # a unique ID for each skill
+  Name: # the name of this skill
   Thumbnails:
-    - (image1)
-    - (image2)
-    - (image3)
+    - # First image for the thumbnails of this skill
+    - # Second image for the thumbnails of this skill
+    - # Third image for the thumbnails of this skill
 
 New words:
-  - Word: (word in target langauge)
+  - Word: #word in target langauge
     Synonyms:
-      - (synonym of word in target language)
-    Translation: (word in source language)
+      - #synonym of word above
+    Translation: #translation in source language of word
     Images:
-      - (image1)
-      - (image2)
-      - (image3)
+      - # First image for the thumbnails of this skill
+      - # Second image for the thumbnails of this skill
+      - # Third image for the thumbnails of this skill
     Also accepted:
-      - (word that is also accepted in source language)
+      - #word(s) that is(/are) also accepted in source language
 
 Phrases:
-  - Phrase: (phrase in target language)
+  - Phrase: #phrase in target language
     Alternative versions:
-      - (alternative version of phrase in target language)
-    Translation: (phrase in source language)
+      - #alternative version in target language of phrase
+    Translation: #translation in source langauge of phrase
     Alternative translations:
-      - (alternative translation of phrase in source language)
+      - #alternative translation in source langauge of phrase
 
 Mini-dictionary:
   (target langauge):
-    - (word in target langauge): (word in source language)
+    - (word in target langauge): (word in source language) # Example of entry for target langauge
 
   (source language):
-    - (word in source language): (word in target langauge)
+    - (word in source language): (word in target langauge) # Example of entry for source langauge
