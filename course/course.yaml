@@ -13,4 +13,4 @@ Course:
     - " " # list special characters used in target language that wouldn't be on the standard keyboard of the source langauge
     
 Modules:
-  - (module name)/ # names of the folders for the modules
+  - (module name)/ # list names of the folders for the modules
