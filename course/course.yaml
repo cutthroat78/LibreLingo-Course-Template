@@ -14,3 +14,12 @@ Course:
     
 Modules:
   - (module name)/ # list names of the folders for the modules
+
+# Uncommenting below will use Polly as TTS for the course
+#Settings:
+#  Audio:
+#    Enabled: True
+#    TTS:
+#      - Provider: Polly
+#        Voice: Vicki
+#        Engine: standard
