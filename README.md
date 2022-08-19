@@ -1,4 +1,4 @@
-# LibreLingo-Course-Template
-(target language name) language course for LibreLingo for speakers of (source language name)
+# LibreLingo _ from _
+_ language course for LibreLingo for speakers of _
 
 Anything in () or after a # is things to be filled out/changed
